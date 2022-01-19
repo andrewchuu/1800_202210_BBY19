@@ -7,6 +7,7 @@
 ## General Info
 This browser based web application to ...
 * Hi my name is Andrew, I'm excited to start this project because it is my first time!
+* Hi my name is Jason. I'm excited about this project because of my team :D.
 	
 ## Technologies
 Technologies used for this project:
