@@ -8,8 +8,7 @@
 This browser based web application to ...
 * Hi my name is Andrew, I'm excited to start this project because it is my first time!
 * Hi my name is Jason. I'm excited about this project because of my team :D.
-	
-    * Hey my nem's Geb
+* Hey my nem's Geb. I'm excited about to learn this project so i can make money again someday
 
 ## Technologies
 Technologies used for this project:
