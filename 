@@ -1,0 +1,42 @@
+[33mcommit 0a50d32dcedb695d4662458c670e01655347fee1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Gabriel Fairbairn A00888969 / NerdSlayer0 <gabrielfair@hotmail.com>
+Date:   Wed Jan 19 12:35:00 2022 -0800
+
+    Added line for Geb
+
+[33mcommit 2829e66d443e248d776e9a52b040727fee93e5d1[m
+Author: Gabriel Fairbairn A00888969 / NerdSlayer0 <gabrielfair@hotmail.com>
+Date:   Wed Jan 19 12:26:12 2022 -0800
+
+    Added another line for Gabriel
+
+[33mcommit 7f3b4464a1d8c2cab2878bef3e766a1a06274a64[m
+Author: Gabriel Fairbairn A00888969 / NerdSlayer0 <gabrielfair@hotmail.com>
+Date:   Wed Jan 19 12:24:27 2022 -0800
+
+    Added line for Gabriel
+
+[33mcommit e57b2e424d9bc34c2462647fac8ef14d9a7dbe77[m
+Merge: a18c8c3 e36737a
+Author: Andrew Chu <andrewchu06@gmail.com>
+Date:   Wed Jan 19 12:21:59 2022 -0800
+
+    Fixing conflict to add one line for Andrew
+
+[33mcommit a18c8c375d5df1af04df0df4dfb208250ce48521[m
+Author: Andrew Chu <andrewchu06@gmail.com>
+Date:   Wed Jan 19 12:06:29 2022 -0800
+
+    Added one line intro to README file for Andrew
+
+[33mcommit e36737a11633a90187118accd8e697b9370cf007[m
+Author: Jason Lee <jlee1473@my.bcit.ca>
+Date:   Wed Jan 19 12:02:55 2022 -0800
+
+    Added one line intro to README file for Jason
+
+[33mcommit e0e301b86b189f79536a6aea21e9ec568b2a9c39[m
+Author: andrewchuu <97498793+andrewchuu@users.noreply.github.com>
+Date:   Wed Jan 19 11:51:44 2022 -0800
+
+    Initial commit
